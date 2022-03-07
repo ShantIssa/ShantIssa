@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shant Issa</h1>
 <h3 align="center">I am React Native Developer</h3>
 
-- 📫 How to reach me **issashant@gmail.com**
+- Reach me **issashant@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
