@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shant Issa</h1>
-<h3 align="center">I am React Native Developer</h3>
+<h3 align="center">Javascript Developer</h3>
 
 - Reach me **issashant@gmail.com**
 
