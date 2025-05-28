@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shant Issa</h1>
-<h3 align="center">JavaScript Developer | React Native Expert</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   Engineering elegant solutions across mobile.<br />
